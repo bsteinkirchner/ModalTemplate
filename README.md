@@ -1,15 +1,7 @@
 # bootstrap-boilerplate
 Description:
-The purpose of this readme is to create the bootstrap boiulerplate.
+The purpose of this project is to demonstrate my skills in creating a modal.
 
-Prerequisites:
-Bootstrap, VS code, git
+Stacks:
 
-
-Installation:
-
-License:
-N/A
-
-Contact:
-Bsteinkirchner@outlook.com
+HTML, CSS, JS
